@@ -7,6 +7,7 @@ Należy wykorzystać GitHub Actions (dopuszczalne są inne rozwiązania CI) oraz
 ✅ Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)
 
 Task 10 – Cloud/CI
+
 GitHub Actions (other CI solutions are also acceptable) and Azure Cloud (other cloud providers are also acceptable) must be used to build and deploy a client-side application (frontend) and a server-side application (backend) as two separate applications. Docker images must be used for this purpose, and both applications should run in containers. It is acceptable to build the application beforehand (using a JAR package) or to build the application through GitHub Actions. Pay attention to the resources available in the cloud environment.
 
 ✅ Create the appropriate cloud instances running Docker.
